@@ -1,0 +1,14 @@
+{
+    "name": "oclock/claire",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Claire Fortin",
+            "email": "claire@oclock.io"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"FreshCoffeeShop\\": "src/"}
+    }
+}

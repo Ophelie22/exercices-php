@@ -14,8 +14,7 @@
 
 ### Confirmés
 - [Exercice POO en PHP](./exercices/sql/sql.md)
-- Documenter ses classes pour l’autocomplétion pour aider les développeurs à
-comprendre votre code
+- [Introduction au MVC](./exercices/mvc/mvc.md)
 - [Introduction à Symfony](./exercices/symfony/intro.md)
 
 ## Recaps

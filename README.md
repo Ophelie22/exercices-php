@@ -20,4 +20,4 @@ comprendre votre code
 
 ## Recaps
 - [La POO](./recaps/poo.MD)
-- [Composer](./recaps/composer.md)
+- [Composer](./recaps/composer.MD)

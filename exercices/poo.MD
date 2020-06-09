@@ -1,4 +1,4 @@
-# Exercice rappel POO
+# Exercice POO
 
 Voir [Fiche récap' POO](../recaps/poo.MD) si besoin.
 

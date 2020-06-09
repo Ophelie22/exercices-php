@@ -1,19 +1,5 @@
 <?php
 
-/*
- Je créé mon espace de nom via le mot clef "namespace"
- je lui definit un path virtuel (qui n'existe pas sur ma machine) et qui va me permettre de
- regrouper mes classes sous une meme nomeclature / groupement.
-
- Pour respecter la PSR4 : je dois obligatoirement respecter un namepsace qui porte le meme nom  que le dossier ET sous dossier 
- dans lequel il se trouve. (groupement de fichier = espace de nom = namespace)
-
-
-J'ai definit dans mon composer.json pour mon projet, l'application de l'autoload sur le dossier contenant l'integralité des namespaces
-De fait, comme j'ai mis un alias en dur sur le dossier /src, je n'utilise donc plus /src mais FreshCoffeeShop
-*/
-namespace FreshCoffeeShop\controllers;
-
 class MainController
 {
     public function home()

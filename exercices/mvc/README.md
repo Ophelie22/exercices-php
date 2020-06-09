@@ -1,4 +1,4 @@
-# MVC
+# Introduction MVC
 
 Voici un petit site internet de 4 pages.
 

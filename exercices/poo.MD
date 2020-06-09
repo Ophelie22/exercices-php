@@ -1,6 +1,6 @@
 # Exercice rappel POO
 
-Voir [Fiche récap' POO](https://github.com/O-clock-Alumni/fiches-recap/blob/master/php/programmation-objet.md) si besoin.
+Voir [Fiche récap' POO](../recaps/poo.MD) si besoin.
 
 ## Contexte
 

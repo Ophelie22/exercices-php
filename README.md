@@ -8,12 +8,12 @@
 - Morceler son code et sa logique pour qu’il soit plus compréhensible
 
 ### Intermédiaires
-- Se connecter à une base de donnée + Créer une Base de donnée
-- Query & Fetch
-- Récupérer dynamiquement les variables d'un formulaire
+- [Exercice SQL](./exercices/sql/sql.md)
+- [Exercice SQL 2](./exercices/sql/sql2.md)
+- [Exercice PHP](./exercices/php/php.md)
 
 ### Confirmés
-- POO: les objets en PHP
+- [Exercice POO en PHP](./exercices/sql/sql.md)
 - Documenter ses classes pour l’autocomplétion pour aider les développeurs à
 comprendre votre code
 - Vers l’utilisation de framework, l’exemple de Symfony

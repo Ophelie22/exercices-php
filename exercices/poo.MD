@@ -27,7 +27,7 @@ On utilisera `composer` pour la gestion des namespaces.
 
 > Essayez d'organiser vos classes dans des namespaces cohérents.
 
-Voir [Fiche récap' Composer](https://github.com/O-clock-Alumnis/fiches-recap/blob/master/php/composer.md) si besoin.
+Voir [Fiche récap' Composer](../recaps/composer.md) si besoin.
 
 ### Etape 1
 

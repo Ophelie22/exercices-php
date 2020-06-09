@@ -16,7 +16,7 @@
 - [Exercice POO en PHP](./exercices/sql/sql.md)
 - Documenter ses classes pour l’autocomplétion pour aider les développeurs à
 comprendre votre code
-- Vers l’utilisation de framework, l’exemple de Symfony
+- [Introduction à Symfony](./exercices/symfony/intro.md)
 
 ## Recaps
 - [La POO](./recaps/poo.MD)
